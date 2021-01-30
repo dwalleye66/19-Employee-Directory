@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Search from "./components/search";
+import Row from "./components/userTable";
 
 function App() {
   return (
