@@ -1,14 +1,17 @@
 
   ![License](https://img.sheilds.io/badge/license-MIT-purple)
-  # README Generator
+  # 19-Employee Directory
 
-  Created a command-line interface that will enable creation of a professional looking README.md file.
+  * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+  * The user is allowed to search the directory of employees using the first and last name.
+  * In addition they would be able to sort according to ascending and descending by selecting the arrow next to First Name and Last Name.
 
   ## Table of contents
 
    * [License](#license)
    * [Installation](#install)
-   * [Images](#images)
+   * [Usage](#usage)
+   * [Screenshots](#screenshots)
    * [Tests](#tests)
    * [Contributions](#contribute)
    * [Questions](#questions)
@@ -19,9 +22,14 @@
 
   ## Installation
   
-  npm start
+  Material UI npm i
 
-  ## Images
+  ## Usage
+  Used RandomUser API to generate a list of 100 employees.
+  * Click on column headers to filter by heading
+  * Use the search box to narrow your results
+
+  ## Screenshots
   Home page
    <img src= "assets\Employee Directory HomePage.png">
   Search Ability
@@ -30,11 +38,11 @@
 
   ## Tests
 
-  Email me for detatils
+  N/A
 
   ## Contributions
 
-  possibly, contact me and we'll discuss
+  N/A
 
   ## Questions
 
