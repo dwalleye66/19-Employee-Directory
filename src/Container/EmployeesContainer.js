@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import SearchBar from "../SearchBar";
-import EmployeeTable from "../EmployeeTable";
-import API from "../../utils/API";
+import SearchBar from "../components/Search";
+import EmployeeTable from "../components/EmployeeTable";
+import API from "../Utility/API.js";
 
 class EmployeesContainer extends Component {
     state = {
