@@ -8,7 +8,7 @@
 
    * [License](#license)
    * [Installation](#install)
-   * [Usage](#userinfo)
+   * [Images](#images)
    * [Tests](#tests)
    * [Contributions](#contribute)
    * [Questions](#questions)
@@ -19,11 +19,12 @@
 
   ## Installation
   
-  npm i
+  npm start
 
-  ## Usage
-  ! [Home Page]assets\Employee Directory HomePage.png
-  ! [Search Ability]assets\Search ability.png 
+  ## Images
+   <img src= "assets\Employee Directory HomePage.png">
+
+   <img src= "assets\Search ability.png" 
   
 
   ## Tests
