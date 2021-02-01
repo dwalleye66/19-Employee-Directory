@@ -22,9 +22,10 @@
   npm start
 
   ## Images
+  Home page
    <img src= "assets\Employee Directory HomePage.png">
-
-   <img src= "assets\Search ability.png" 
+  Search Ability
+   <img src= "assets\Search ability.png"> 
   
 
   ## Tests
