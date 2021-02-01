@@ -9,10 +9,10 @@
 /coverage
 
 # Optional eslint cache
-.eslintcache
+.eslintcache/
 
 # production
-/build
+build/
 
 # misc
 .DS_Store
